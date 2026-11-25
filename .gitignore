@@ -1,0 +1,16 @@
+# MOOSE simulation outputs
+*_out.e
+*_out.e-*
+*_out.csv
+
+# Temporary and backup files
+*.log
+*.bak
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ParaView temporary files
+*.autosave
